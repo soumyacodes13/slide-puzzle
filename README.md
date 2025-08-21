@@ -98,7 +98,7 @@ Keep sliding until the board is solved!
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name](https://github.com/soumyacodes13)  
+Developed by [Soumyajit](https://github.com/soumyacodes13)  
 
 ---
 
