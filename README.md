@@ -5,13 +5,13 @@ Rearrange the shuffled tiles into the correct order using `u`, `d`, `l`, `r` mov
 Built with only Python’s standard library — no extra dependencies required.  
 
 ---
-
+<!--
 ## 🎥 Live Demo
 
 ![Slide Puzzle Demo](demo.gif)
 
 👉 Try it online: ## 🚀 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
-
+-->
 
 
 
