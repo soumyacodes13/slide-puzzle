@@ -47,3 +47,4 @@ while True:
     move=input("Enter your move(up/down/left/right): ")
     player_move()
     draw_board(board)
+
